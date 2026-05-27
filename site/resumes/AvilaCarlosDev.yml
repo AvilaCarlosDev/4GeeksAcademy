@@ -1,18 +1,19 @@
 basic_info:
   first_name: Carlos
   last_name: Avila
-  occupation: Full Stack Developer
+  occupation: Full Stack Developer & Senior Mentor
   description: >
-    Passionate software developer currently training at 4Geeks Academy.
-    Focused on building modern web applications using Python, JavaScript, and React.
-    Committed to continuous learning and contributing to open source projects.
+    Developer passionate about Web, AI, and Community building.
+    Community & Public Support Specialist and Senior Mentor at 4Geeks Academy.
+    I thrive on building meaningful digital experiences, transforming ideas from
+    concept to deployment. Currently exploring AI Agents, OpenClaw, and System Design.
   github_username: AvilaCarlosDev
-  linkedin_username: ""
-  twitter_username: ""
-  stack_overflow_username: ""
-  email: ""
+  linkedin_username: avilacarlosdev
+  twitter_username: avilacarlosdev
+  email: AvilaValerioCarlos@gmail.com
   availability_to_travel: yes
-  physical_address: Venezuela
+  physical_address: Punto Fijo, Falcón, Venezuela
+  website: https://carlos-avila-portfolio.vercel.app
 
 education:
   - degree: Full Stack Developer
@@ -20,25 +21,50 @@ education:
     graduation_year: 2026
 
 experiences:
-  - company: ""
-    position: ""
-    description: ""
+  - company: 4Geeks Academy
+    position: Senior Mentor & Community Support Specialist
+    description: >
+      Mentoring students in Full Stack Development, supporting the community,
+      and helping learners grow their coding skills. Focused on React,
+      Node.js, Python, and AI-related technologies.
 
 projects:
-  - title: Student Profile
+  - title: Personal Portfolio
     description: >
-      Learning in public project - first contribution to an open source repository
-      as part of the 4Geeks Academy bootcamp curriculum.
+      Professional portfolio website built with React, Tailwind CSS, and Vite.
+      Showcases projects, skills, and professional journey as a developer.
+    url: https://carlos-avila-portfolio.vercel.app
+
+  - title: Awesome VE Dev
+    description: >
+      Community-driven resource hub for Venezuelan developers.
+      A curated list of tools, links, and resources to empower the local dev community.
+    url: https://github.com/AvilaCarlosDev
+
+  - title: Streak Keeper
+    description: >
+      Auto-commit scripts using Bash and Systemd to maintain GitHub streaks
+      and automate routine development workflows.
+    url: https://github.com/AvilaCarlosDev
+
+  - title: OpenClaw Skills
+    description: >
+      AI agent skill automation project. Building intelligent automation
+      workflows using OpenClaw for smarter human-AI collaboration.
     url: https://github.com/AvilaCarlosDev
 
 skills:
-  - skill: HTML/CSS
-    percentage: 60
-  - skill: JavaScript
-    percentage: 55
-  - skill: Python
-    percentage: 50
   - skill: React
-    percentage: 45
-  - skill: Git
+    percentage: 75
+  - skill: Node.js
+    percentage: 70
+  - skill: Python
+    percentage: 70
+  - skill: AI Automation
     percentage: 65
+  - skill: HTML/CSS
+    percentage: 85
+  - skill: Git
+    percentage: 80
+  - skill: JavaScript
+    percentage: 75
